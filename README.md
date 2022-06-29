@@ -2,6 +2,8 @@
  <h3>Hi there 👋 I am 서지혜 :)</h3>
 </div>
 
+<br/>
+
 <div align="center">
  <h3>🛠 Tech & Tools 💻</h3>
  <div align="center" width="300px">
@@ -76,6 +78,8 @@
    </a>
  </div>
 </div>
+
+<br/>
 
 <div align="center">
 
