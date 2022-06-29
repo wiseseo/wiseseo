@@ -2,9 +2,9 @@
  <h3>Hi there 👋 I am 서지혜 :)</h3>
 </div>
 
-<div align="center"">
+<div align="center">
  <h3>🛠 Tech & Tools 💻</h3>
- <div width="300px">
+ <div align="center" width="300px">
    <a href="" target="_blank">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
    </a>
@@ -28,7 +28,8 @@
    <a href="" target="_blank">
        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=FFFFFF"/>
    </a>
-
+ </div>
+ <div align="center" width="300px">
    <a href="" target="_blank">
        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
    </a>
@@ -64,7 +65,8 @@
    <a href="" target="_blank">
        <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=FFFFFF"/>
    </a>
-
+ </div>
+ <div align="center" width="300px">
    <a href="" target="_blank">
        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=FFFFFF"/>
    </a>
