@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![wiseseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseseo&show_icons=true&count_private=true)
+<!-- ![wiseseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseseo&show_icons=true&count_private=true) -->
 
 </div>
 
