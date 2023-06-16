@@ -64,9 +64,9 @@
        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=FFFFFF"/>
    </a>
 
-   <a href="" target="_blank">
+<!--   <a href="" target="_blank">
        <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=FFFFFF"/>
-   </a>
+   </a> -->
  </div>
  <div align="center" width="300px">
    <a href="" target="_blank">
